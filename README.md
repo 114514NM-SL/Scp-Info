@@ -1,7 +1,8 @@
 # Scp-Info
 中文(Chinese):这是一个关于SCP SL的插件,显示SCP队友信息
 # 显示
-我使用了[https://github.com/MeowServer/HintServiceMeow]来显示信息
+我使用了[https://github.com/MeowServer/HintServiceMeow]
+来显示信息,HintServiceMeow必须安装
 # 框架
 我使用了EXILED来做插件框架
 EXILED[https://github.com/Exiled-Team/EXILED]
